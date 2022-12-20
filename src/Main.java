@@ -91,7 +91,7 @@ public class Main {
 
         Bus bus1 = new Bus("Volvo", "B9R", "Blue", 1967, "Sweden", 120);
         Bus bus2 = new Bus("Volvo", "B11R", "Red", 2015, "Denmark", 150);
-        Bus bus3 = new Bus("Volvo", "B7R", "Orange", -6, "Sweden", 140);
+        Bus bus3 = new Bus("Volvo", "B7R", "Orange", -7, "Sweden", 140);
 
         bus1.requestInformation();
         bus2.requestInformation();
